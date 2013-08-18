@@ -1,0 +1,9 @@
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\bin\Debug\ShoppingTraditionz.BusinessLogic.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\bin\Debug\ShoppingTraditionz.BusinessLogic.pdb
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\obj\Debug\ShoppingTraditionz.BusinessLogic.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\obj\Debug\ShoppingTraditionz.BusinessLogic.pdb
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\bin\Debug\ShoppingTraditionz.BusinessLogic.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\bin\Debug\ShoppingTraditionz.BusinessLogic.pdb
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\obj\Debug\ShoppingTraditionz.BusinessLogic.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessLogic\obj\Debug\ShoppingTraditionz.BusinessLogic.pdb

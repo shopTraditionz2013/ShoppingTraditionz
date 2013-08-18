@@ -1,0 +1,9 @@
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\bin\Debug\ShoppingTraditionz.BusinessEntity.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\bin\Debug\ShoppingTraditionz.BusinessEntity.pdb
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\obj\Debug\ShoppingTraditionz.BusinessEntity.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\obj\Debug\ShoppingTraditionz.BusinessEntity.pdb
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\bin\Debug\ShoppingTraditionz.BusinessEntity.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\bin\Debug\ShoppingTraditionz.BusinessEntity.pdb
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\obj\Debug\ResolveAssemblyReference.cache
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\obj\Debug\ShoppingTraditionz.BusinessEntity.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.BusinessEntity\obj\Debug\ShoppingTraditionz.BusinessEntity.pdb

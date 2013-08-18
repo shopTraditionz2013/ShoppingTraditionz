@@ -1,0 +1,12 @@
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.pdb
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ShoppingTraditionz.DataAccessLayer.dll
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ShoppingTraditionz.DataAccessLayer.pdb
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.dll.config
+c:\users\nityanand\documents\visual studio 2010\Projects\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ShoppingTraditionz.DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.dll.config
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\bin\Debug\ShoppingTraditionz.DataAccessLayer.pdb
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ShoppingTraditionz.DataAccessLayer.dll
+F:\ShoppingTraditionz\ShoppingTraditionz\ShoppingTraditionz.DataAccessLayer\obj\Debug\ShoppingTraditionz.DataAccessLayer.pdb

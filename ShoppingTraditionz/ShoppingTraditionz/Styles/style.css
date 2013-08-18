@@ -1,0 +1,320 @@
+/* logo-img */
+
+#logo-img{
+	height: 100px;
+	width: 200px;
+}
+
+/* autocomplete */
+.ui-autocomplete-category {
+	font-weight: bold;
+	padding: .2em .4em;
+	margin: .8em 0 .2em;
+	line-height: 1.5;
+}
+
+/* niv0-slider */
+.slider-wrapper { 
+	width: 90%;
+}
+
+/* continuos scroller */
+
+.stores-images{
+	background: red;
+	height: 300px;
+	width: 267.6px;
+	float: left;
+	padding: 15px 16px 25px 16.5px;
+}
+
+/* My Wishlist page image size */
+
+.wishlist-images{
+	height: 150px;
+	width: 250px;
+}
+
+/* large Modal Window */
+
+body .modal-large {
+    /* new custom width */
+    width: 1200px;
+    /* must be half of the width, minus scrollbar on the left (30px) */
+    margin-left: -600px;
+}
+
+.select-mini-size{
+	width: 50px;
+}
+
+/* top stores hover effect */
+
+.view {
+    width: 260px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+    border: 10px solid #fff;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 2px #e6e6e6;
+    cursor: default;
+    background: #fff;
+}
+.view .mask, .view .content {
+    width: 260px;
+    height: 200px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0
+}
+.view img {
+    display: block;
+    position: relative;
+    height: 200px;
+}
+.view h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 20px 0 0 0
+}
+.view p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 12px;
+    position: relative;
+    color: #fff;
+    padding: 10px 20px 20px;
+    text-align: center
+}
+.view a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 7px 14px;
+    color: #fff;
+    text-transform: uppercase;
+    box-shadow: 0 0 1px #000
+}
+.view a.info:hover {
+    box-shadow: 0 0 5px #000
+}
+
+.view-first img { 
+    transition: all 0.2s linear;
+}
+.view-first .mask {
+    opacity: 0;
+    background-color: rgba(219,127,8, 0.7); 
+    transition: all 0.4s ease-in-out;
+}
+.view-first h2 {
+    transform: translateY(-100px);
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+.view-first p { 
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.2s linear;
+}
+.view-first a.info{
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.view-first:hover img { 
+    transform: scale(1.1);
+} 
+.view-first:hover .mask { 
+    opacity: 1;
+}
+.view-first:hover h2,
+.view-first:hover p,
+.view-first:hover a.info {
+    opacity: 1;
+    transform: translateY(0px);
+}
+.view-first:hover p {
+    transition-delay: 0.1s;
+}
+.view-first:hover a.info {
+    transition-delay: 0.2s;
+}
+
+/* feedback */
+
+#feedback {
+	position:fixed;
+	height: 100px;
+	width: 30px;
+	float: left;
+	border-radius: 5px;
+	overflow: hidden;
+	background:url(../img/Feedback-Button.png);
+	background-repeat:no-repeat;
+}
+
+/* sharing */
+
+#sharing{
+	top: 350px;
+	position:fixed;
+	height: 150px;
+	width: 30px;
+	float: left;
+	border-radius: 5px;
+	overflow: hidden;
+	background-color: blue;
+}
+
+#facebook{
+	height: 50px;
+	width: 30px;
+	background:url(../img/facebook-icon.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-color: white;
+}
+
+#twitter{
+	height: 50px;
+	width: 30px;
+	background:url(../img/twiiter-icon.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-color: white;
+}
+
+#googleplus{
+	height: 50px;
+	width: 30px;
+	background:url(../img/google-plus-icon.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-color: white;
+}
+
+/* category-page*/
+
+.description{
+	background:url(../img/transpBlack.png) white;
+	opacity : 0.8;
+	color: white;
+	margin-left: 5px;
+	width: 360px;
+	margin-top: -65px;
+}
+
+.img{
+	height: 270px;
+}
+
+.description-content{
+	padding-left: 4px;
+	margin-left: 0px;
+}
+
+.category{
+	margin-left: -20px;
+}
+/* category hover */
+
+.buyNow{
+	visibility: hidden;
+	margin-top: -280px;
+	margin-left: 140px;
+	color: black;
+}
+
+.categoryview:hover .buyNow{
+	visibility: visible;
+}
+
+.categoryview:hover{
+	background: background:url(../img/transpBlack.png);
+	opacity: 0.6;
+	visibility: visible;
+}
+
+/* product Details */
+
+.size{
+	width: 305px;
+	height: 50px;
+}
+
+.size-inner{
+	width: 59px;
+	height: 50px;
+	margin-left: 1px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+}
+
+.size-inner:hover{
+	border: 1px solid;
+}
+
+.color{
+	width: 183px;
+	height: 50px;
+}
+
+#five{
+	background:url(../img/five.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+
+#six{
+	background:url(../img/six.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+
+#seven{
+	background:url(../img/seven.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+
+#eight{
+	background:url(../img/eight.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+
+#nine{
+	background:url(../img/nine.jpg);
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+
+#red{
+	background: red;
+}
+
+#blue{
+	background: blue;
+}
+
+#black{
+	background: pink;
+}
+
+.buying{
+	margin-left: 75px;
+}
+
+#text{
+	margin-top: 40px;
+}
